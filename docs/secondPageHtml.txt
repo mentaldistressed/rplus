@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+	<head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8" />
+		<title>
+		</title>
+		<style>
+			body { widows:0; orphans:0; font-family:'Times New Roman'; font-size:11pt }
+			h1, h2, h3, h4, h5, h6, p { margin:0pt }
+			li, table { margin-top:0pt; margin-bottom:0pt }
+			h1 { page-break-inside:auto; page-break-after:auto; widows:0; orphans:0; font-family:'Times New Roman'; font-size:10.5pt; font-weight:bold; color:#000000 }
+			h2 { margin-top:18pt; margin-bottom:4pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-family:'Times New Roman'; font-size:18pt; font-weight:bold; color:#000000 }
+			h3 { margin-top:14pt; margin-bottom:4pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-family:'Times New Roman'; font-size:14pt; font-weight:bold; color:#000000 }
+			h4 { margin-top:12pt; margin-bottom:2pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-family:'Times New Roman'; font-size:12pt; font-weight:bold; font-style:normal; color:#000000 }
+			h5 { margin-top:11pt; margin-bottom:2pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-family:'Times New Roman'; font-size:11pt; font-weight:bold; color:#000000 }
+			h6 { margin-top:10pt; margin-bottom:2pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-family:'Times New Roman'; font-size:10pt; font-weight:bold; color:#000000 }
+			.tg  {border-collapse:collapse;border-spacing:0;}
+			.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+			.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+			.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+			.Subtitle { margin-top:18pt; margin-bottom:4pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-family:Georgia; font-size:24pt; font-style:italic; color:#666666 }
+			.Title { margin-top:24pt; margin-bottom:6pt; page-break-inside:avoid; page-break-after:avoid; widows:0; orphans:0; font-size:36pt; font-weight:bold }
+			.normal0 { widows:0; orphans:0; font-size:11pt }
+			.awlist1 { list-style:none; counter-reset:awlistcounter8_1 }
+			.awlist1 > li:before { content:'2.' counter(awlistcounter8_1) '.'; counter-increment:awlistcounter8_1 }
+			.awlist2 { list-style:none; counter-reset:awlistcounter8_1 1 }
+			.awlist2 > li:before { content:'2.' counter(awlistcounter8_1) '.'; counter-increment:awlistcounter8_1 }
+			.awlist3 { list-style:none; counter-reset:awlistcounter6_1 }
+			.awlist3 > li:before { content:'3.' counter(awlistcounter6_1) '.'; counter-increment:awlistcounter6_1 }
+			.awlist4 { list-style:none; counter-reset:awlistcounter6_2 }
+			.awlist4 > li:before { content:'3.' counter(awlistcounter6_1) '.' counter(awlistcounter6_2) '.'; counter-increment:awlistcounter6_2 }
+			.awlist5 { list-style:none; counter-reset:awlistcounter5_1 }
+			.awlist5 > li:before { content:'4.' counter(awlistcounter5_1) '.'; counter-increment:awlistcounter5_1 }
+			.awlist6 { list-style:none; counter-reset:awlistcounter4_1 }
+			.awlist6 > li:before { content:'5.' counter(awlistcounter4_1) '.'; counter-increment:awlistcounter4_1 }
+			.awlist7 { list-style:none; counter-reset:awlistcounter4_2 }
+			.awlist7 > li:before { content:'5.' counter(awlistcounter4_1) '.' counter(awlistcounter4_2) '.'; counter-increment:awlistcounter4_2 }
+			
+            .wordPage {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				align-self: center;
+				margin: 0 auto;
+				width: 550pt;
+			}
+			
+			.pageFooterDoc {
+				display: flex;
+                justify-content: space-between;
+                align-items: center;
+                width: 80%;
+				margin-top: 15px;
+			}
+
+            .pageFooterTableDoc {
+                display: flex;
+                align-items: center;
+            }
+		</style>
+	</head>
+	<body>
+		<div class="wordPage wordPage8">
+			<p class="normal0" style="margin-top:3.45pt;text-align:right; font-size:10.5pt; align-self: flex-end;">
+				<strong>Приложение № [0] </br> к Лицензионному договору № </strong>
+                <strong><span style="background-color:#00ff00">[1]</span></strong>
+                <strong> от </strong><span style="background-color:#00ff00">[2]</span>.
+			</p>
+			<p class="normal0">
+				&#xa0;
+			</p>
+			<p class="normal0" style="margin-top:0.55pt; font-size:9.5pt">
+				&#xa0;
+			</p>
+			<p class="normal0" style="margin-left:11.75pt; text-align:justify; font-size:10.5pt">
+				г. Москва<span style="width:353.63pt; display:inline-block">&#xa0;</span>[2]
+			</p>
+			<p class="normal0" style="margin-top:0.1pt; font-size:10.5pt">
+				&#xa0;
+			</p>
+			<p class="normal0" style="margin-left:11.75pt; text-align:justify; font-size:10.5pt">
+				<strong>Гражданин [3] </strong><strong><span style="color:#1a1a1a; background-color:#00ff00">[4]</span></strong><strong>, </strong>действующий от своего имени и в своем интересе, именуемый в дальнейшем «<strong>Лицензиар</strong>», с одной стороны, и
+			</p>
+			<p class="normal0" style="margin-top:0.45pt; font-size:10pt">
+				&#xa0;
+			</p>
+			<p class="normal0" style="margin-right:11.7pt; margin-left:11.75pt; text-align:justify; font-size:10.5pt">
+				<strong>Индивидуальный предприниматель Пынзарь Сергей Сергеевич, </strong>действующий на основании Листа записи единого государственного реестра индивидуальных предпринимателей ОГРНИП № <span style="font-size:10pt">323508100624640</span>, именуемый в дальнейшем <strong>«Лицензиат»</strong>, с другой стороны, именуемые совместно – «<strong>Стороны</strong>», а по отдельности «<strong>Сторона</strong>», действуя на основании Договора, составили и подписали настоящее приложение к Договору (далее – «Приложение») о нижеследующем:
+			</p>
+			<p class="normal0" style="margin-top:0.05pt; font-size:10.5pt">
+				&#xa0;
+			</p>
+			<p class="normal0" style="margin-top:0.05pt; margin-left:22.25pt; text-indent:-10.55pt; text-align:justify; font-size:10.5pt">
+				<span>1.</span><span style="width:2.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0; </span>Лицензиар предоставляет Лицензиату на Территорию и на Срок, право использование следующих Объектов:
+			</p>
+			<p class="normal0" style="margin-top:0.1pt; margin-bottom:0.05pt; font-size:10.5pt">
+				&#xa0;
+			</p>
+			<table class="tg">
+				<thead>
+				  <tr>
+					<th class="tg-9wq8">№</th>
+					<th class="tg-9wq8">Название <br>Произведения</th>
+					<th class="tg-9wq8">Длительность</th>
+					<th class="tg-9wq8">Автор музыки</th>
+					<th class="tg-9wq8">Автор слов</th>
+					<th class="tg-9wq8">Исполнители</th>
+					<th class="tg-9wq8">Изготовитель <br>Фонограммы</th>
+					<th class="tg-9wq8">Срок лицензии</th>
+				  </tr>
+				</thead>
+				<tbody id='tgInsertDataHere'>
+				</tbody>
+				</table>
+			<p class="normal0" style="margin-top:0.4pt; font-size:10pt">
+				&#xa0;
+			</p>
+			<p class="normal0" style="margin-top:0.05pt; margin-right:12.3pt; margin-left:11.75pt; text-align:justify; font-size:10.5pt">
+				<span>2.</span><span style="width:5.18pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0; </span>Настоящим Лицензиат подтверждает, что получил Исходный материал, содержащий профессиональную запись копий вышеуказанного Объекта надлежащего технического качества и эталонного (оригинального) звучания, посредством Интернет-передачи через FTP-протокол.
+			</p>
+			<p class="normal0" style="margin-right:12.35pt; margin-left:11.75pt; text-align:justify; font-size:10.5pt">
+				<span>3.</span><span style="width:4.93pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0; </span>Настоящее Приложение вступает в силу с даты, указанной в преамбуле (дата подписания), и действует в течение Срока. Во всем, что не предусмотрено настоящим Приложением, Стороны руководствуются условиями Договора. Срок лицензии настоящего приложения считается автоматически продленным на каждый последующий календарный год на тех же условиях при условии отсутствия уведомления об ином, направленного одной Стороной в адрес другой Стороны заказным письмом не менее чем за 90 (девяносто) рабочих дней до истечения срока лицензии объектов настоящего приложения.
+			</p>
+			<p class="normal0" style="margin-top:0.05pt; margin-right:12.6pt; margin-left:11.75pt; text-align:justify; font-size:10.5pt">
+				<span>4.</span><span style="width:6.43pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0; </span>Настоящее Приложение является неотъемлемой частью Договора, составлено в 2 (двух) экземплярах одинаковой юридической силы – по одному для каждой из Сторон.
+			</p>
+			<h1 style="margin-top:5.85pt; text-indent:-10.8pt; text-align:justify">
+				<span style="height:0pt; text-align:left; display:block; z-index:4"></span>5.<span style="width:2.93pt; font:7pt 'Times New Roman'; display:inline-block">&nbsp; </span>Подписи Сторон
+            </h1>
+			<table style="width:498.2pt; margin-top: 15px; border:0.75pt solid #000000; border-collapse:collapse">
+				<tr style="height:12pt">
+					<td style="border-right:0.75pt solid #000000; border-bottom:0.75pt solid #000000; vertical-align:top">
+						<p class="normal0" style="margin-left:5.75pt; line-height:92%; font-size:10.5pt">
+							<strong>Лицензиар</strong>
+						</p>
+					</td>
+					<td style="border-left:0.75pt solid #000000; border-bottom:0.75pt solid #000000; vertical-align:top">
+						<p class="normal0" style="margin-left:5.75pt; line-height:92%; font-size:10.5pt">
+							<strong>Лицензиат</strong>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:72.5pt">
+					<td style="vertical-align:top; display: flex; justify-content: center;">
+						<p class="normal0" style="margin-top: 35px; font-size:10.5pt">
+							<strong>_____________________/<span style="color:#1a1a1a; background-color:#00ff00">[4]</span>/</strong>
+						</p>
+					</td>
+					<td style="border-top:0.75pt solid #000000; border-left:0.75pt solid #000000; vertical-align:top">
+						<p class="normal0" style="margin-left:5.75pt; font-size:10.5pt">
+							<strong>Индивидуальный предприниматель</strong>
+						</p>
+						<div class="pageFooterTableDoc" style="align-items: center;">
+							<img src="data:image/jpeg;base64,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" width="120" height="60" alt=""">
+							<p><strong>/Пынзарь Сергей Сергеевич/</strong></p>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+    </body>
+</html>

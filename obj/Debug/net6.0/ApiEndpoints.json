@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DocumentManager.Controllers.DocumentController",
+    "Method": "Post",
+    "RelativePath": "Document",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "DocumentManager.Models.Agreement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

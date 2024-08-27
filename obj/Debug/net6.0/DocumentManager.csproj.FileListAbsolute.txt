@@ -1,0 +1,106 @@
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\appsettings.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.exe
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.deps.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.runtimeconfig.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.pdb
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.AssemblyReference.cache
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.AssemblyInfoInputs.cache
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.AssemblyInfo.cs
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.CoreCompileInputs.cache
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.DocumentManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.build.DocumentManager.props
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DocumentManager.props
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DocumentManager.props
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\scopedcss\bundle\DocumentManager.styles.css
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.CopyComplete
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\refint\DocumentManager.dll
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.pdb
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.genruntimeconfig.cache
+C:\Users\Windows Pro\Desktop\Prod\DocumentManager\DocumentManager\obj\Debug\net6.0\ref\DocumentManager.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\appsettings.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.exe
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.deps.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.runtimeconfig.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\DocumentManager.pdb
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.AssemblyReference.cache
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.AssemblyInfoInputs.cache
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.AssemblyInfo.cs
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.CoreCompileInputs.cache
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.DocumentManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.build.DocumentManager.props
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DocumentManager.props
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DocumentManager.props
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\scopedcss\bundle\DocumentManager.styles.css
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.CopyComplete
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\refint\DocumentManager.dll
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.pdb
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\DocumentManager.genruntimeconfig.cache
+C:\Users\Windows Pro\Documents\GitHub\DocumentManager\DocumentManager\obj\Debug\net6.0\ref\DocumentManager.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\appsettings.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\DocumentManager.exe
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\DocumentManager.deps.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\DocumentManager.runtimeconfig.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\DocumentManager.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\DocumentManager.pdb
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.AssemblyReference.cache
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.AssemblyInfoInputs.cache
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.AssemblyInfo.cs
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.csproj.CoreCompileInputs.cache
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.sourcelink.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.DocumentManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.build.DocumentManager.props
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DocumentManager.props
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DocumentManager.props
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\scopedcss\bundle\DocumentManager.styles.css
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\Document.A7EDEB8A.Up2Date
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\refint\DocumentManager.dll
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.pdb
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\DocumentManager.genruntimeconfig.cache
+C:\Users\sesa7\Desktop\DocumentManager_https\DocumentManager\obj\Debug\net6.0\ref\DocumentManager.dll
