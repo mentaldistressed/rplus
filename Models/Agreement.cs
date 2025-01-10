@@ -18,7 +18,7 @@
 
         public string? AgreementDate { get; set; }
 
-        public string? documentDate { get; set; }
+        // public string? DocumentDate { get; set; }
 
         public PassData? PassData { get; set; }
 
