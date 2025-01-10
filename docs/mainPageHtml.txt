@@ -486,6 +486,9 @@
 				<li class="normal0" style="margin-right:31.05pt; margin-left:9pt; text-align:justify; line-height:101%; font-size:10.5pt; list-style-position:inside">
 					<span style="width:2.05pt; font:7pt 'Times New Roman'; display:inline-block"> </span>Лицензиар выражает свое согласие со внесением Лицензиатом и иными лицами с разрешения Лицензиата в Объекты изменений, сокращений и дополнений, снабжение их при их использовании иллюстрациями, предисловием, послесловием, комментариями или какими бы то ни было пояснениями.
 				</li>
+				<li class="normal0" style="margin-right:31.05pt; margin-left:9pt; text-align:justify; line-height:101%; font-size:10.5pt; list-style-position:inside">
+					<span style="width:2.05pt; font:7pt 'Times New Roman'; display:inline-block"> </span>Стороны пришли к соглашению, что в течение срока действия Договора Лицензиат имеет преимущественное право перед третьими лицами на заключение с Лицензиаром лицензионного договора о предоставлении права использования Объектов, которые будут созданы Лицензиатом в течение срока действия Договора
+				</li>
 			</ol>
 			<h1 style="margin-top: 25pt;">
 				3.<span style="width:13.58pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span>Права и обязанности Сторон
