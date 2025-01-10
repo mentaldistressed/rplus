@@ -18,6 +18,8 @@
 
         public string? AgreementDate { get; set; }
 
+        public string? documentDate { get; set; }
+
         public PassData? PassData { get; set; }
 
         public List<RoyalityData>? RoyalityDatas { get; set; }

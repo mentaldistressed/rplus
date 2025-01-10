@@ -47,6 +47,7 @@ namespace DocumentManager.Services
                 {
                     document.Id.ToString(),
                     document.AgreementDate.ToString(),
+                    document.documentDate.ToString(),
                     document.Country ?? " ",
                     document.Fio ?? " ",
                     document.NickName ?? "  ",
@@ -105,6 +106,7 @@ namespace DocumentManager.Services
                     document.applId.ToString(),
                     document.Id.ToString(),
                     document.AgreementDate.ToString(),
+                    document.documentDate.ToString(),
                     document.Country ?? " ",
                     document.Fio ?? " "
                 };
