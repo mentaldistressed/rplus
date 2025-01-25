@@ -756,7 +756,7 @@
 							ИНН: 503018295481
 						</p>
 						<p class="normal0" style="margin-left:5.75pt; font-size:10pt">
-							Паспорт: 4619 191894
+							Паспорт: 4624 834153
 						</p>
 						<p class="normal0" style="margin-top:0.05pt; margin-right:30.4pt; margin-left:5.75pt; font-size:10pt">
 							Выдан: ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ
@@ -765,7 +765,7 @@
 							Код подразделения: 500-084
 						</p>
 						<p class="normal0" style="margin-left:5.75pt; font-size:10pt">
-							Дата выдачи: 30.01.2019
+							Дата выдачи: 24.01.2025
 						</p>
 						<p class="normal0" style="margin-right:15.25pt; margin-left:5.75pt; font-size:10pt">
 							Адрес: 143360, РОССИЯ, МОСКОВСКАЯ ОБЛ., Г. АПРЕЛЕВКА, УЛ. ОСТРОВСКОГО 36
